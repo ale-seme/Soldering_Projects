@@ -4,10 +4,10 @@ Welcome to my collection of soldering projects! This repository features a serie
 
 ## Projects
 
-1. **CAI-269-LED FM Radio**
+1. [**CAI-269-LED FM Radio**](./CAI-269-LED-FM-Radio)
    - Assemble an FM radio kit by soldering the components onto a PCB.
 
-2. **SMD Soldering Practice - Open Source PCB**
+2. [**SMD Soldering Practice - Open Source PCB**](./SMD-Soldering-Practice)
    - Practice surface-mount device (SMD) soldering with an open-source PCB designed for skill-building.
 
 More projects will be added soon!
@@ -40,4 +40,3 @@ Contributions are welcome! If you'd like to add a new project or improve the exi
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
