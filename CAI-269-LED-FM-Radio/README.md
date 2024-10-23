@@ -14,36 +14,34 @@ Radios have a fascinating history that goes back to the early 20th century. Inve
 
 This project gave me a small glimpse into the technology that has shaped modern communication.
 
-## Components I Used
+## Componenents of the kit
 
 Here’s a breakdown of the key components I soldered onto the board:
-
-1. **Resistors**  
-   - Various values, identified by their color codes.
-
-2. **Capacitors**  
-   - Electrolytic and ceramic capacitors.
-
-3. **Inductors**  
-   - Small wire-wound inductors that helped with tuning the radio frequencies.
-
-4. **Transistors**  
-   - NPN transistors, used for amplification and switching in the circuit.
-
-5. **LEDs**  
-   - Red, green, and blue LEDs. These added a visual element, lighting up when the radio was powered on.
-
-6. **Speaker**  
-   - A small speaker that outputs the audio signals received from FM stations.
-
-7. **PCB (Printed Circuit Board)**  
-   - The main board where all the components were soldered in place.
-
-8. **Antenna**  
-   - An external wire antenna to help pick up FM signals more effectively.
-
-9. **Battery Holder**  
-   - To power the radio with standard batteries.
+- 47 Ohm resistors x7
+- 100uF Electrolytic capacitor x5
+- Button Cap x4
+- 6*6*10 Button x4
+- 372768Hz Oscillator x1
+- AUX Socket x1
+- STC8G1K17 MCU x1
+- 16Pin IC Socket x1
+- Switch x1
+- MICRO USB Socket x1 (won't be used)
+- Battery Metal Connector x4
+- 0.36in 4Bit LED Digital Tubex1
+- RDA5807 Receiver x1
+- Sponge x1
+- 8002 Amplifier x1
+- Speaker x1
+- PCB Circuit Board x1
+- Transparent Top Case x1
+- Transparent Bottom Case x1
+- 1.7mm Self-tapping Screw x4
+- 3mm Screw x1
+- 3mm Nut x1
+- Long Wire (10cm) x2
+- Short Wire (5cm) x2
+- FM Radio Antenna x1
 
 ## What I Learned
 
@@ -55,7 +53,7 @@ Here’s a breakdown of the key components I soldered onto the board:
 
 ## Reflections
 
-While assembling this kit, I not only honed my soldering skills but also gained a deeper appreciation for the history and technology behind something as common as an FM radio. Although this was a relatively simple project, it opened my eyes to the intricacies of electronics and how seemingly small components can work together to achieve something greater.
+While assembling this kit, I not only improved my soldering skills but also gained a deeper appreciation for the history and technology behind something as common as an FM radio.
 
 This project was just the beginning, and I’m looking forward to continuing to improve my soldering abilities with more challenging projects in the future.
 
