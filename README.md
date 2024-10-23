@@ -23,6 +23,7 @@ For all projects, you will need basic soldering tools such as:
 - Soldering iron
 - Solder wire
 - Wire cutters/strippers
+- Desoldering Pump
 - Multimeter
 - Tweezers (especially for SMD projects)
 - Safety goggles
