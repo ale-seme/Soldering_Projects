@@ -1,7 +1,7 @@
 ![Main Image](images/radio.jpeg)
 # CAI-269-LED FM Radio Kit
 
-This project marks the beginning of my soldering journey and is part of my **Soldering Projects** category. The **CAI-269-LED FM Radio Kit** was my first-ever attempt at assembling an electronic kit using soldering techniques. It was a fun and educational experience designed to help beginners practice soldering while learning about the inner workings of FM radios and handling components like resistors, capacitors, and transistors.
+This project marks the beginning of my soldering journey and is part of my **Soldering Projects** category. The **CAI-269-LED FM Radio Kit** was my first-ever attempt at assembling an electronic kit using soldering techniques. It was a fun and educational experience designed to help beginners practice soldering while learning about the inner workings of FM radios and handling components like resistors, capacitors, and transistors. Please refer to the folder (images) to checkout the components and the (terrible) soldering :).
 
 ## My Experience
 
