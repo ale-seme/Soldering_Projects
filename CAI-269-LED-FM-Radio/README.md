@@ -11,7 +11,28 @@ What I found particularly interesting was how each component worked together to 
 ## Theory of FM Radio
 
 ### What is FM Radio?
-Frequency Modulation (FM) is a method of encoding information in a carrier wave by varying its frequency. Unlike Amplitude Modulation (AM), where the amplitude of the wave changes to convey information, FM alters the frequency, providing better sound quality and resistance to interference.
+Frequency Modulation (FM) is a method of encoding information in a carrier wave by varying its frequency. Unlike Amplitude Modulation (AM), where the amplitude of the wave changes to convey information, FM alters the frequency. This results in better sound quality and resistance to interference, making FM radio a popular choice for broadcasting music and voice.
+
+### How FM Radio Works
+
+FM radio operates by modulating the frequency of a carrier wave to encode audio signals. Here’s a deeper look at the process:
+
+1. **Modulation Process**: 
+   - The audio signal (information) is combined with a carrier wave of a specific frequency. The amplitude of the carrier wave remains constant, but its frequency varies according to the amplitude of the audio signal.
+   - For instance, if the audio signal has a higher amplitude, the frequency of the carrier wave will increase; if the audio signal decreases in amplitude, the frequency decreases.
+
+2. **Transmission**: 
+   - The modulated signal is then transmitted via an antenna. The transmission occurs in a specific frequency range, typically between 88 MHz to 108 MHz for FM broadcasting.
+
+3. **Reception**: 
+   - A radio receiver uses an antenna to capture the transmitted FM signals. The receiver is tuned to a specific frequency to filter out all other signals. This is achieved using components like variable capacitors or digitally controlled tuners.
+
+4. **Demodulation**: 
+   - Once the signal is received, the demodulation process takes place to extract the original audio signal from the modulated carrier wave. This is typically done using a discriminator or phase-locked loop (PLL) circuit.
+   - The demodulated audio signal is then amplified for output.
+
+5. **Audio Output**: 
+   - The amplified audio signal is sent to a speaker or headphones, converting the electrical signals back into sound waves that we can hear.
 
 ### Key Physical Concepts
 
