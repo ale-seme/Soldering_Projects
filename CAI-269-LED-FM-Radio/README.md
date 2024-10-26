@@ -14,6 +14,18 @@ What I found particularly interesting was how each component worked together to 
 ### What is FM Radio?
 Frequency Modulation (FM) is a method of encoding information in a carrier wave by varying its frequency. Unlike Amplitude Modulation (AM), where the amplitude of the wave changes to convey information, FM alters the frequency. This results in better sound quality and resistance to interference, making FM radio a popular choice for broadcasting music and voice.
 
+![AM and FM Comparison](https://upload.wikimedia.org/wikipedia/commons/a/a4/Amfm3-en-de.gif)
+
+### AM vs. FM
+
+**AM (Amplitude Modulation)** and **FM (Frequency Modulation)** are two methods of encoding audio signals onto a carrier wave, each with distinct characteristics and applications.
+
+- **Amplitude Modulation (AM)** encodes information by varying the amplitude (signal strength) of the carrier wave. This allows AM signals to travel longer distances, making them suitable for broadcasting over large geographic areas, especially at night. However, AM is more prone to interference from electrical noise and atmospheric conditions, leading to lower sound quality. It’s commonly used for talk radio and news broadcasting, where fidelity is less critical.
+
+- **Frequency Modulation (FM)**, on the other hand, encodes audio signals by varying the frequency of the carrier wave. This method provides higher sound quality and greater resistance to noise and interference, making FM the preferred choice for music broadcasting. The signal is less affected by static, allowing for a clearer listening experience. However, FM signals typically have a shorter range compared to AM and may require more complex receiving equipment. FM operates within a specific frequency range, usually between 88 MHz and 108 MHz.
+
+In summary, while AM offers longer-range capabilities and is effective for talk-based content, FM provides superior audio quality and clarity, making it ideal for music and entertainment.
+
 ### How FM Radio Works
 
 FM radio operates by modulating the frequency of a carrier wave to encode audio signals. Here’s a deeper look at the process:
@@ -34,6 +46,7 @@ FM radio operates by modulating the frequency of a carrier wave to encode audio 
 
 5. **Audio Output**: 
    - The amplified audio signal is sent to a speaker or headphones, converting the electrical signals back into sound waves that we can hear.
+
 
 ### Key Physical Concepts
 
