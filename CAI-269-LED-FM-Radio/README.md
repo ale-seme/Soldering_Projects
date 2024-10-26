@@ -64,81 +64,81 @@ FM radio operates by modulating the frequency of a carrier wave to encode audio 
 
 Here’s a breakdown of the key components I soldered onto the board:
 
-### 1. **47 Ohm Resistors x7**
-- **Purpose**: Limit current flow, ensuring safe operation of sensitive components.
-- **Role in FM Radio**: Maintain stable current in the signal processing and audio amplification stages for clear audio output.
+- **47 Ohm Resistors x7**  
+  Purpose: Limit current flow.  
+  Role: Maintain stable current in signal processing and audio amplification stages for clear audio output.
 
-### 2. **100uF Electrolytic Capacitors x5**
-- **Purpose**: Smooth voltage fluctuations and filter unwanted noise.
-- **Role in FM Radio**: Stabilize the power supply, enhancing signal clarity.
+- **100uF Electrolytic Capacitors x5**  
+  Purpose: Smooth voltage fluctuations.  
+  Role: Stabilize the power supply, enhancing signal clarity.
 
-### 3. **Button Cap x4 & 6*6*10 Button x4**
-- **Purpose**: Provide user input options.
-- **Role in FM Radio**: Allow channel selection and control functions via the microcontroller.
+- **Button Cap x4 & 6*6*10 Button x4**  
+  Purpose: Provide user input options.  
+  Role: Allow channel selection and control functions via the microcontroller.
 
-### 4. **372768 Hz Oscillator x1**
-- **Purpose**: Generate a precise timing signal for digital circuits.
-- **Role in FM Radio**: Synchronizes microcontroller functions for accurate tuning and processing.
+- **372768 Hz Oscillator x1**  
+  Purpose: Generate precise timing signal.  
+  Role: Synchronizes microcontroller functions for accurate tuning and processing.
 
-### 5. **AUX Socket x1**
-- **Purpose**: Provide an auxiliary audio output.
-- **Role in FM Radio**: Allows connection to headphones or external speakers for enhanced audio output options.
+- **AUX Socket x1**  
+  Purpose: Provide auxiliary audio output.  
+  Role: Allows connection to headphones or external speakers for enhanced audio output options.
 
-### 6. **STC8G1K17 Microcontroller (MCU) x1**
-- **Purpose**: Manage core functions, including user input processing and display control.
-- **Role in FM Radio**: Central control unit that manages the receiver and user interface.
+- **STC8G1K17 Microcontroller (MCU) x1**  
+  Purpose: Manage core functions.  
+  Role: Central control unit that manages the receiver and user interface.
 
-### 7. **16-Pin IC Socket x1**
-- **Purpose**: Securely hold the microcontroller.
-- **Role in FM Radio**: Protects the MCU during soldering and allows for easy replacement.
+- **16-Pin IC Socket x1**  
+  Purpose: Securely hold the microcontroller.  
+  Role: Protects the MCU during soldering and allows for easy replacement.
 
-### 8. **Switch x1**
-- **Purpose**: Toggle power to the circuit.
-- **Role in FM Radio**: Enables the user to turn the radio on or off.
+- **Switch x1**  
+  Purpose: Toggle power to the circuit.  
+  Role: Enables the user to turn the radio on or off.
 
-### 9. **Battery Metal Connectors x4**
-- **Purpose**: Establish a secure connection to the battery.
-- **Role in FM Radio**: Ensure a reliable power source for stable operation.
+- **Battery Metal Connectors x4**  
+  Purpose: Establish a secure connection to the battery.  
+  Role: Ensure a reliable power source for stable operation.
 
-### 10. **0.36in 4-Bit LED Digital Display x1**
-- **Purpose**: Show numerical information, primarily tuned frequency.
-- **Role in FM Radio**: Provides real-time feedback on the current station.
+- **0.36in 4-Bit LED Digital Display x1**  
+  Purpose: Show numerical information.  
+  Role: Provides real-time feedback on the current station.
 
-### 11. **RDA5807 FM Receiver Module x1**
-- **Purpose**: Tune into FM signals and demodulate them.
-- **Role in FM Radio**: Core functionality that converts frequency-modulated signals into audio signals.
+- **RDA5807 FM Receiver Module x1**  
+  Purpose: Tune into FM signals and demodulate them.  
+  Role: Core functionality that converts frequency-modulated signals into audio signals.
 
-### 12. **Sponge x1**
-- **Purpose**: Cushion components to prevent damage.
-- **Role in FM Radio**: Stabilizes components and reduces the risk of shorts.
+- **Sponge x1**  
+  Purpose: Cushion components to prevent damage.  
+  Role: Stabilizes components and reduces the risk of shorts.
 
-### 13. **8002 Audio Amplifier x1**
-- **Purpose**: Amplify the audio signal for speaker output.
-- **Role in FM Radio**: Essential for producing audible sound.
+- **8002 Audio Amplifier x1**  
+  Purpose: Amplify the audio signal.  
+  Role: Essential for producing audible sound.
 
-### 14. **Speaker x1**
-- **Purpose**: Convert electrical audio signals into sound.
-- **Role in FM Radio**: Final output device that produces audible sound from the FM signal.
+- **Speaker x1**  
+  Purpose: Convert electrical audio signals into sound.  
+  Role: Final output device that produces audible sound from the FM signal.
 
-### 15. **PCB Circuit Board x1**
-- **Purpose**: Mount and electrically connect components.
-- **Role in FM Radio**: Organizes layout for effective signal flow and reliable connections.
+- **PCB Circuit Board x1**  
+  Purpose: Mount and electrically connect components.  
+  Role: Organizes layout for effective signal flow and reliable connections.
 
-### 16. **Transparent Top and Bottom Case x1 each**
-- **Purpose**: Protect internal components while allowing visibility.
-- **Role in FM Radio**: Keeps the internal circuitry safe and showcases the design.
+- **Transparent Top and Bottom Case x1 each**  
+  Purpose: Protect internal components.  
+  Role: Keeps the internal circuitry safe and showcases the design.
 
-### 17. **Self-Tapping Screws (1.7mm x4), 3mm Screw x1, 3mm Nut x1**
-- **Purpose**: Secure components and casing.
-- **Role in FM Radio**: Ensure structural durability, making the radio portable.
+- **Self-Tapping Screws (1.7mm x4), 3mm Screw x1, 3mm Nut x1**  
+  Purpose: Secure components and casing.  
+  Role: Ensure structural durability, making the radio portable.
 
-### 18. **Long Wire (10cm x2) & Short Wire (5cm x2)**
-- **Purpose**: Provide wiring connections within the circuit.
-- **Role in FM Radio**: Connect the antenna, power, and signal paths for reliable interaction.
+- **Long Wire (10cm x2) & Short Wire (5cm x2)**  
+  Purpose: Provide wiring connections.  
+  Role: Connect the antenna, power, and signal paths for reliable interaction.
 
-### 19. **FM Radio Antenna x1**
-- **Purpose**: Capture FM signals from the air.
-- **Role in FM Radio**: Acts as the primary input for FM signals, enabling tuning and processing by the receiver.
+- **FM Radio Antenna x1**  
+  Purpose: Capture FM signals from the air.  
+  Role: Acts as the primary input for FM signals, enabling tuning and processing by the receiver.
 
 ## What I Learned
 
