@@ -160,12 +160,12 @@ Here’s a breakdown of the key components I soldered onto the board:
   
 - **Understanding Circuits**: This project gave me a clearer understanding of how components like resistors and capacitors work together in circuits, especially in frequency-based applications like radios.
 
-- **Troubleshooting**: One of the challenging (but fun) parts of the project was troubleshooting when things didn't work as expected. A few times, I had to re-solder connections and adjust the component placement.
+- **Troubleshooting**: One of the challenging (but fun) parts of the project was troubleshooting when things didn't work as expected. A few times, I had to re-solder connections and adjust the component placement. As you can see the job is far from perfect but I was satisfied that the radio works fine!
 
 - **Conceptual Knowledge**: I gained insight into critical concepts such as demodulation, tuning, SNR, and bandwidth, all of which are fundamental to the performance and functionality of FM radios.
 
 ## Reflections
 
-While assembling this kit, I not only improved my soldering skills but also gained a deeper appreciation for the technology behind something as common as an FM radio. This project was designed to be educational, emphasizing hands-on practice with soldering techniques.
+While assembling this kit, I not only improved my soldering skills but also gained a deeper appreciation for the technology behind something as common as an FM radio. Radio are an amazing tool to grasp some of the thousends of voices that are always there waiting to be received.
 
 This project was just the beginning, and I’m looking forward to continuing to improve my soldering abilities with more challenging projects in the future.
