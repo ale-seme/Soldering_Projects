@@ -156,7 +156,7 @@ Here’s a breakdown of the key components I soldered onto the board:
 
 ## What I Learned
 
-- **Soldering Techniques**: I learned the importance of applying just the right amount of solder and ensuring solid connections without short circuits. I also discovered that keeping a steady hand is crucial!
+- **Soldering Techniques**: I learned for the first time how to solder and desolder. Keeping a stady hand is crucial and mistakes are inevitable at the beginning. 
   
 - **Understanding Circuits**: This project gave me a clearer understanding of how components like resistors and capacitors work together in circuits, especially in frequency-based applications like radios.
 
