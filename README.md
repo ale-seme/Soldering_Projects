@@ -39,4 +39,4 @@ Contributions are welcome! If you'd like to add a new project or improve the exi
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details..
+This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
