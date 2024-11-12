@@ -1,6 +1,6 @@
 # Soldering Projects
 
-Welcome to my collection of soldering projects! This repository features a series of soldering projects I have chosen to improve my skills and share insights with others interested in this beautiful practice. Each project reflects my personal journey and offers useful tips and curiosities along the way.
+Welcome to my collection of soldering projects! This repository features a series of soldering projects I have chosen to improve my skills and share insights with others interested in this beautiful practice. Each project reflects my personal journey and offers useful tips and curiosities along the way. Please be aware that since these projects don't involve any coding, the full description is gonna be in the readme. Additional supporting files might be present in separate folders of each project.
 
 ## Projects
 
